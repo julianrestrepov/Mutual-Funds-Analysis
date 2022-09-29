@@ -21,4 +21,4 @@ The calculations are going to give us the next measures:
 - Drawdowns
 - Normality (Skewness and Kurtosis) and Jarque-Bera Test
 - Sharpe Ratio
-- CVAR(95%)
+- Value-at-Risk(95)
