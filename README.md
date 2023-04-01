@@ -8,7 +8,7 @@ This script will analyze 2 Mutual Funds from the bank Bancolombia located in Col
 
 RSG is a ESG mutual fund that invests in equity markets around the world.
 
-RAC is a mutual fund attemps to replicate the return of a global market fund.
+RAC is a mutual fund that attemps to replicate the return of a equity global market fund without any ESG restrictions.
 
 The calculations are going to give us the next measures:
 
